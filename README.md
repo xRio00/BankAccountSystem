@@ -32,7 +32,7 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/BankAccountSystem.git
+git clone https://github.com/xRio00/BankAccountSystem.git
 cd BankAccountSystem
 Compile the Java file:
 bash
